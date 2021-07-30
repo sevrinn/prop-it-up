@@ -8,4 +8,4 @@ We had two objectives:
 
 I accomplished both objectives and commented my code
 
-<img src="screenshot.png" alt="screenshot of results rendered" width="300">
+<img src="screenshot.png" alt="screenshot of results rendered" width="300"/>
